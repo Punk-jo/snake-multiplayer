@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+.log
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Unity (общие)
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
+[Ll]ogs
+UserSettings
+
+# IDE
+.vscode
+.idea
