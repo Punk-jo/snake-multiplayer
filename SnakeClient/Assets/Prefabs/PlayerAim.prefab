@@ -48,7 +48,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 903832622507386947}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -135,4 +135,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db646979f7369ee4db051fd93df057e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAim
+  _overlapRadius: 0.5
+  _collisionLayer:
+    serializedVersion: 2
+    m_Bits: 55
   _rotateSpeed: 90
+  _loginName: {fileID: 0}

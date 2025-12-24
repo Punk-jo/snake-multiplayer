@@ -77,6 +77,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1afc401492c3e8b4ca1ff1bc4f24f61e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Controller
+  _cameraOffsetY: 15
   _cursor: {fileID: 1628462817729461529}
 --- !u!1 &8788284948590692185
 GameObject:
